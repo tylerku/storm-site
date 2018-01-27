@@ -3118,7 +3118,14 @@
 
 		#footer h3 {
 			color: #FFF;
-			margin-bottom: 2em !important;
+		}
+
+		#footer h5 {
+			color: #FFF;
+		}
+
+		#footer .bottom-line {
+			margin-bottom: 3em !important;
 		}
 
 		#footer label {
@@ -3156,4 +3163,8 @@
 				padding: 3em 0;
 			}
 
+		}
+
+		svg {
+			fill: black;
 		}
